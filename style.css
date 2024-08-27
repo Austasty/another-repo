@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<HTML>
+    <HEAD>
+            <TITLE>MY FIRST WEB PAGE</TITLE>
+        <STYLe>
+            IMG{
+                height: 200%;
+                width: 100%;
+            }
+        </STYLe>
+    </HEAD>
+    <BODY>
+        <IMG SRC="5.png">
+            <P>I WELCOME YOU ALL TO MY PAGE</P>
+            <P>LEARN WIH ME@NINOMEDIA</P>
+    </BODY>
+</HTML>
